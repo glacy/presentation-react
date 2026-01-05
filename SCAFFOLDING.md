@@ -6,7 +6,7 @@ Este proyecto está diseñado para ser usado como base para nuevas presentacione
 
 1.  **Clonar el repositorio** (o descargar el ZIP):
     ```bash
-    git clone https://github.com/glacy/frontmatter-academico.git mi-nueva-presentacion
+    git clone https://github.com/glacy/presentation-react.git mi-nueva-presentacion
     cd mi-nueva-presentacion/presentation-react
     ```
 
